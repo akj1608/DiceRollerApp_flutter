@@ -1,6 +1,7 @@
 # dice
 
-A new Flutter project.
+A Dice Roller Flutter Project.
+![AppDemo](https://github.com/akj1608/DiceRollerApp_flutter/blob/main/images/AppDemo.png)
 
 ## Getting Started
 
